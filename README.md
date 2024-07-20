@@ -30,7 +30,7 @@ Create a simple QR code component:
 ### Links
 
 - Solution URL: [QR code solution](https://www.frontendmentor.io/solutions/qr-code-component-solution-using-css-lxQsNoC6Yg)
-- Live Site URL: [QR code live](https://juantwofour.github.io/QR-code/)
+- Live Site URL: [QR code live](https://juantwofour.github.io/QR-Code/)
 
 ## My process
 
